@@ -31,13 +31,13 @@ Ubuntu, CentOS, Nginx, AWS, heroku, GCP(a little)<br/>
 MySQL, DynamoDB, SQLite
 
 ## Works
-[withreed.com (anyone can make AR)](https://withreed.com/)<br/>
+[withreed.com (anyone can make AR)](https://withreed.com/){:target="_blank"}<br/>
 Django, three.js<br/><br/>
-[bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)<br/>
+[bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/){:target="_blank"}<br/>
 Django, GraphQL, React<br/><br/>
-[iwana.link (reverse flee market)](https://iwana.link/)<br/>
+[iwana.link (reverse flee market)](https://iwana.link/){:target="_blank"}<br/>
 Django, Lambda, EC2, Route53, DynamoDB, RDS, heroku, bottle, python, SES<br/><br/>
-[nagget.df.r.appspot.com (Meyasubako)](https://nagget.df.r.appspot.com/)<br/>
+[nagget.df.r.appspot.com (Meyasubako)](https://nagget.df.r.appspot.com/){:target="_blank"}<br/>
 Golang, Gorilla(golang), GAE, CloudSQL<br/><br/>
-[coiiect.com (Manage your items)](https://coiiect.com/)<br/>
+[coiiect.com (Manage your items)](https://coiiect.com/){:target="_blank"}<br/>
 Django<br/>
