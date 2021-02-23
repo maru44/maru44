@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## Maru's profile 👋
+---
 <!--
 **maru44/maru44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 Full stack engineer / Individual development 
-
 studied by myself (2019 - March.2021) / at company (March.2021 - )
 
