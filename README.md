@@ -1,4 +1,4 @@
-## Maru's profile 👋
+## Maru's profile 🤝
 
 <!--
 **maru44/maru44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
