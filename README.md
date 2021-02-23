@@ -20,9 +20,9 @@ studied by myself (2019 - March.2021) / at company (March.2021 - )
 
 ## Skills
 ### Backend
-Main<br/>
+####Main
 Django(Python), Python🐍<br/>
-Sub<br/>
+####Sub
 Golang, Bottle(Python), GraphQL, Laravel<br/>
 ### Frontend
 HTML5/CSS3, JavaScript, jQuery, three.js, React, webpack
@@ -31,13 +31,13 @@ Ubuntu, CentOS, Nginx, AWS, heroku, GCP(a little)<br/>
 MySQL, DynamoDB, SQLite
 
 ## Works
-[withreed.com (anyone can make AR)](https://withreed.com/)
-Django, three.js
-[bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)
-Django, GraphQL, React
-[iwana.link (reverse flee market)](https://iwana.link/)
-Django, Lambda, EC2, Route53, DynamoDB, RDS, heroku, bottle, python, SES
-[nagget.df.r.appspot.com (Meyasubako)](https://nagget.df.r.appspot.com/)
-Golang, Gorilla(golang), GAE, CloudSQL
-[coiiect.com (Manage your items)](https://coiiect.com/)
-Django
+[withreed.com (anyone can make AR)](https://withreed.com/)<br/>
+Django, three.js<br/>
+[bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)<br/>
+Django, GraphQL, React<br/>
+[iwana.link (reverse flee market)](https://iwana.link/)<br/>
+Django, Lambda, EC2, Route53, DynamoDB, RDS, heroku, bottle, python, SES<br/>
+[nagget.df.r.appspot.com (Meyasubako)](https://nagget.df.r.appspot.com/)<br/>
+Golang, Gorilla(golang), GAE, CloudSQL<br/>
+[coiiect.com (Manage your items)](https://coiiect.com/)<br/>
+Django<br/>
