@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Full stack engineer / Individual development 
+
+studied by myself (2019 - March.2021) / at company (March.2021 - )
+
