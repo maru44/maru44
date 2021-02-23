@@ -20,9 +20,9 @@ studied by myself (2019 - March.2021) / at company (March.2021 - )
 
 ## Skills
 ### Backend
-####Main
+@Main<br/>
 Django(Python), Python🐍<br/>
-####Sub
+@Sub<br/>
 Golang, Bottle(Python), GraphQL, Laravel<br/>
 ### Frontend
 HTML5/CSS3, JavaScript, jQuery, three.js, React, webpack
@@ -32,12 +32,12 @@ MySQL, DynamoDB, SQLite
 
 ## Works
 [withreed.com (anyone can make AR)](https://withreed.com/)<br/>
-Django, three.js<br/>
+Django, three.js<br/><br/>
 [bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)<br/>
-Django, GraphQL, React<br/>
+Django, GraphQL, React<br/><br/>
 [iwana.link (reverse flee market)](https://iwana.link/)<br/>
-Django, Lambda, EC2, Route53, DynamoDB, RDS, heroku, bottle, python, SES<br/>
+Django, Lambda, EC2, Route53, DynamoDB, RDS, heroku, bottle, python, SES<br/><br/>
 [nagget.df.r.appspot.com (Meyasubako)](https://nagget.df.r.appspot.com/)<br/>
-Golang, Gorilla(golang), GAE, CloudSQL<br/>
+Golang, Gorilla(golang), GAE, CloudSQL<br/><br/>
 [coiiect.com (Manage your items)](https://coiiect.com/)<br/>
 Django<br/>
