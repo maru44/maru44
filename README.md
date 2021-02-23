@@ -30,7 +30,7 @@ HTML5/CSS3, JavaScript, jQuery, three.js, React, webpack
 Ubuntu, CentOS, Nginx, AWS, heroku, GCP(a little)<br/>
 MySQL, DynamoDB, SQLite
 
-## Main Works
+## Main Works (Individual development)
 [withreed.com (anyone can make AR)](https://withreed.com/)<br/>
 Django, three.js<br/><br/>
 [bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)<br/>
