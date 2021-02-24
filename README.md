@@ -34,7 +34,7 @@ MySQL, DynamoDB, SQLite
 [withreed.com (anyone can make AR)](https://withreed.com/)<br/>
 Django, three.js<br/><br/>
 [bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)<br/>
-Django, GraphQL, React<br/><br/>
+Django, GraphQL, React(create-react-app)<br/><br/>
 [iwana.link (reverse flee market)](https://iwana.link/)<br/>
 Django, Lambda, EC2, S3, Route53, DynamoDB, RDS, heroku, bottle, python, SES<br/><br/>
 [nagget.df.r.appspot.com (Meyasubako)](https://nagget.df.r.appspot.com/)<br/>
