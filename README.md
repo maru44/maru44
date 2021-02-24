@@ -36,7 +36,7 @@ Django, three.js<br/><br/>
 [bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)<br/>
 Django, GraphQL, React<br/><br/>
 [iwana.link (reverse flee market)](https://iwana.link/)<br/>
-Django, Lambda, EC2, Route53, DynamoDB, RDS, heroku, bottle, python, SES<br/><br/>
+Django, Lambda, EC2, S3, Route53, DynamoDB, RDS, heroku, bottle, python, SES<br/><br/>
 [nagget.df.r.appspot.com (Meyasubako)](https://nagget.df.r.appspot.com/)<br/>
 Golang, Gorilla(golang), GAE, CloudSQL<br/><br/>
 [coiiect.com (Manage your items)](https://coiiect.com/)<br/>
