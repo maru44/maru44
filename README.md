@@ -23,11 +23,11 @@ studied by myself (2019 - March.2021) / at company (March.2021 - )
 @Main<br/>
 Django(Python), Python🐍<br/>
 @Sub<br/>
-Golang, Bottle(Python), GraphQL, Laravel<br/>
+Golang, Bottle(Python), GraphQL, Laravel, php<br/>
 ### Frontend
-HTML5/CSS3, JavaScript, jQuery, three.js, React, webpack
+HTML5/CSS3, JavaScript, jQuery, three.js, React, Next.js
 ### Infrastructure
-Ubuntu, CentOS, Nginx, AWS, heroku, GCP(a little)<br/>
+Ubuntu, CentOS, Nginx, AWS, heroku, vercel, GCP(a little)<br/>
 MySQL, DynamoDB, SQLite
 
 ## Main Works (Individual development)
@@ -35,9 +35,5 @@ MySQL, DynamoDB, SQLite
 Django, three.js<br/><br/>
 [bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)<br/>
 Django, GraphQL, React(create-react-app)<br/><br/>
-[iwana.link (reverse flee market)](https://iwana.link/)<br/>
+[iwana-front.vercel.app (reverse flee market)](https://iwana-front.vercel.app/)<br/>
 Django, Lambda, EC2, S3, Route53, DynamoDB, RDS, heroku, bottle, python, SES<br/><br/>
-[nagget.df.r.appspot.com (Meyasubako)](https://nagget.df.r.appspot.com/)<br/>
-Golang, Gorilla(golang), GAE, CloudSQL<br/><br/>
-[coiiect.com (Manage your items)](https://coiiect.com/)<br/>
-Django<br/>
