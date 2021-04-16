@@ -35,5 +35,5 @@ MySQL, DynamoDB, SQLite
 Django, three.js<br/><br/>
 [bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)<br/>
 Django, GraphQL, React(create-react-app)<br/><br/>
-[iwana-front.vercel.app (reverse flee market)](https://iwana-front.vercel.app/)<br/>
+[iwana.link (reverse flee market)](https://iwana.link/)<br/>
 Django, Lambda, EC2, S3, Route53, DynamoDB, RDS, heroku, bottle, python, SES, Next.js, vercel<br/><br/>
