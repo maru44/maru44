@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Full stack engineer / Individual development<br/>
+Backend engineer / Individual development<br/>
 studied by myself (2019 - March.2021) / at company (March.2021 - )
 
 ## Skills
