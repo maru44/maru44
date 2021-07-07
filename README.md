@@ -31,6 +31,8 @@ Ubuntu, CentOS, Nginx, AWS, heroku, vercel, GCP(a little)<br/>
 MySQL, DynamoDB, SQLite
 
 ## Main Works (Individual development)
+[loveanime.me (platform for anime fans)](https://loveani.me/)<br/>
+Go, Next.js, Nginx, mysql, firebase(auth), s3, ___CleanArchitecture___
 [withreed.com (anyone can make AR)](https://withreed.com/)<br/>
 Django, three.js<br/><br/>
 [bottomslum.com (asynchronous bulletin board)](https://bottomslum.com/)<br/>
