@@ -21,9 +21,9 @@ studied by myself (2019 - March.2021) / at company (March.2021 - )
 ## Skills
 ### Backend
 @Main<br/>
-Django(Python), Python🐍<br/>
+Django, go<br/>
 @Sub<br/>
-Golang, Bottle(Python), GraphQL, Laravel, php<br/>
+Bottle(Python), GraphQL, Laravel, php<br/>
 ### Frontend
 HTML5/CSS3, JavaScript, jQuery, three.js, React, Next.js
 ### Infrastructure
