@@ -23,9 +23,11 @@ studied by myself (2019 - March.2021) / at company (March.2021 - )
 @Main<br/>
 Django, go<br/>
 @Sub<br/>
-Bottle(Python), GraphQL, Laravel, php<br/>
+Bottle(Python), GraphQL, Laravel, php, Dart<br/>
 ### Frontend
 HTML5/CSS3, JavaScript, jQuery, three.js, React, Next.js
+### Native?
+Flutter
 ### Infrastructure
 Ubuntu, CentOS, Nginx, AWS, heroku, vercel, GCP(a little)<br/>
 MySQL, DynamoDB, SQLite
