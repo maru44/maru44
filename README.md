@@ -39,3 +39,6 @@ Go, Next.js, Nginx, mysql, firebase(auth), s3, ___Clean Architecture___<br/><br/
 Django, three.js<br/><br/>
 [iwana.link (reverse flee market)](https://iwana.link/)<br/>
 Django, Lambda, EC2, S3, Route53, DynamoDB, RDS, heroku, bottle, python, SES, Next.js, vercel<br/><br/>
+
+## Zenn
+https://zenn.dev/maru44
