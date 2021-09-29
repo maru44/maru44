@@ -35,10 +35,17 @@ MySQL, DynamoDB, SQLite
 ## Main Works (Individual development)
 [loveanime.me (platform for anime fans)](https://loveani.me/)<br/>
 Go, Next.js, Nginx, mysql, firebase(auth), s3, ___Clean Architecture___<br/><br/>
-[withreed.com (anyone can make AR)](https://withreed.com/)<br/>
-Django, three.js<br/><br/>
+
 [iwana.link (reverse flee market)](https://iwana.link/)<br/>
 Django, Lambda, EC2, S3, Route53, DynamoDB, RDS, heroku, bottle, python, SES, Next.js, vercel<br/><br/>
+
+## OSS
+
+### perr
+https://github.com/maru44/perr
+
+### Morse
+https://github.com/maru44/morse
 
 ## Zenn
 https://zenn.dev/maru44
