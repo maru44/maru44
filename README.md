@@ -33,7 +33,7 @@ Ubuntu, CentOS, Nginx, AWS, heroku, vercel, GCP(a little)<br/>
 MySQL, DynamoDB, SQLite
 
 ## Main Works (Individual development)
-[loveanime.me (platform for anime fans)](https://loveani.me/)<br/>
+[loveani.me (platform for anime fans)](https://loveani.me/)<br/>
 Go, Next.js, Nginx, mysql, firebase(auth), s3, ___Clean Architecture___<br/><br/>
 
 [iwana.link (reverse flee market)](https://iwana.link/)<br/>
