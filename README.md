@@ -47,9 +47,15 @@ https://github.com/maru44/perr
 ### Morse
 https://github.com/maru44/morse
 
+
+
+
 ## Zenn
 https://zenn.dev/maru44
 
 ## dev.to
 https://dev.to/maru44
+
+## blog
+https://maru44.me/
 
