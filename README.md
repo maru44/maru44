@@ -21,23 +21,25 @@ studied by myself (2019 - March.2021) / at company (March.2021 - )
 ## Skills
 ### Backend
 @Main<br/>
-Django, go<br/>
+Go<br/>
 @Sub<br/>
-Bottle(Python), GraphQL, Laravel, php, Dart<br/>
+Django, Bottle(Python), Laravel, php, Dart<br/>
 ### Frontend
-HTML5/CSS3, JavaScript, jQuery, three.js, React, Next.js
+TypeScript, React, Next.js, GraphQL
 ### Native?
 Flutter
 ### Infrastructure
-Ubuntu, CentOS, Nginx, AWS, heroku, vercel, GCP(a little)<br/>
-MySQL, DynamoDB, SQLite
+AWS, Ubuntu, CentOS, Nginx, heroku, vercel, GCP(a little)<br/>
+MySQL, PostgreSQL, DynamoDB, SQLite, Redis
+### IaC
+Terraform
 
 ## Main Works (Individual development)
 [loveani.me (platform for anime fans)](https://loveani.me/)<br/>
 Go, Next.js, Nginx, mysql, firebase(auth), s3, ___Clean Architecture___<br/><br/>
 
-[iwana.link (reverse flee market)](https://iwana.link/)<br/>
-Django, Lambda, EC2, S3, Route53, DynamoDB, RDS, heroku, bottle, python, SES, Next.js, vercel<br/><br/>
+[envassador.com (platform to manage local environmental variables)](https://envassador.com)<br/>
+Go, Next.js, TypeScript, MUI, SWR, AWS(ECS, ECR, RDS,,,), Terraform, Docker, ___Clean Architecture___<br/><br/>
 
 ## OSS
 
