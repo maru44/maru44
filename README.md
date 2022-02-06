@@ -33,6 +33,8 @@ AWS, Ubuntu, CentOS, Nginx, heroku, vercel, GCP(a little)<br/>
 MySQL, PostgreSQL, DynamoDB, SQLite, Redis
 ### IaC
 Terraform
+### others
+github actions
 
 ## Main Works (Individual development)
 [loveani.me (platform for anime fans)](https://loveani.me/)<br/>
