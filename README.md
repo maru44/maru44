@@ -23,9 +23,6 @@ Terraform
 github actions
 
 ## Main Works (Individual development)
-[loveani.me (platform for anime fans)](https://loveani.me/)<br/>
-Go, Next.js, Nginx, mysql, firebase(auth), s3, ___Clean Architecture___<br/><br/>
-
 [envassador.com (platform to manage local environmental variables)](https://envassador.com)<br/>
 Go, Next.js, TypeScript, MUI, SWR, AWS(ECS, ECR, RDS,,,), Terraform, Docker, ___Clean Architecture___<br/><br/>
 
@@ -33,9 +30,6 @@ Go, Next.js, TypeScript, MUI, SWR, AWS(ECS, ECR, RDS,,,), Terraform, Docker, ___
 
 ### scheman
 https://github.com/maru44/scheman
-
-### perr
-https://github.com/maru44/perr
 
 ### Morse
 https://github.com/maru44/morse
