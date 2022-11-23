@@ -6,16 +6,16 @@ studied by myself (2019 - March.2021) / at company (March.2021 - )
 
 ## Skills
 ### Backend
-@Main<br/>
+__Main__<br/>
 Go<br/>
-@Sub<br/>
-Django, Bottle(Python), Laravel, php, Dart<br/>
+__Sub__<br/>
+python, php<br/>
 ### Frontend
 TypeScript, React, Next.js, GraphQL
 ### Native?
-Flutter
+Flutter(Dart)
 ### Infrastructure
-AWS, Ubuntu, CentOS, Nginx, heroku, vercel, GCP(a little)<br/>
+AWS, Ubuntu, CentOS, Nginx, heroku, vercel, GCP<br/>
 MySQL, PostgreSQL, DynamoDB, SQLite, Redis
 ### IaC
 Terraform
@@ -33,11 +33,3 @@ https://github.com/maru44/scheman
 
 ### Morse
 https://github.com/maru44/morse
-
-
-## Zenn
-https://zenn.dev/maru44
-
-## dev.to
-https://dev.to/maru44
-
