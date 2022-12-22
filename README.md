@@ -1,4 +1,4 @@
-# Maru's profile
+# Maru
 
 
 Backend engineer / Individual development<br/>
