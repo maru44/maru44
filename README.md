@@ -20,14 +20,3 @@ Go, Next.js, TypeScript, MUI, SWR, AWS(ECS, ECR, RDS,,,), Terraform, Docker, ___
 
 [Linkauto](https://linkauto.web.app)<br />
 Go, React, Vite, GCP, Firebase, Terraform
-
-## OSS
-
-### Scheman
-https://github.com/maru44/scheman
-
-### Morse
-https://github.com/maru44/morse
-
-### PipeWriter
-https://github.com/maru44/pipewriter
