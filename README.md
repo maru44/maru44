@@ -1,8 +1,11 @@
 # Maru
 
+Web engineer (mainly server side) / Indie developer<br/>
+Love go and react(TypeScript).
 
-Server side engineer / Client Side engineer / Indie developer<br/>
-Indie developer (2019 - March.2021) / As an engineer at company (March.2021 - )
+## History
+Working as an engineer at company (March 2021 - )<br/>
+Indie developer studied by myself (August 2019 - March 2021)
 
 
 ![maru44's GitHub stats](https://github-readme-stats.vercel.app/api?username=maru44&show_icons=true&theme=dark&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru44&layout=compact&hide=python,html,css)
