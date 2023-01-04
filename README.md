@@ -1,6 +1,7 @@
 # Maru
 
-Web engineer (mainly server side) / Indie developer<br/>
+Web engineer (mainly server side)<br />
+Indie developer<br/>
 Love go and react(TypeScript).
 
 ## History
