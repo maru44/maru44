@@ -11,7 +11,7 @@ Indie developer studied by myself (August 2019 - March 2021)
 ![maru44's GitHub stats](https://github-readme-stats.vercel.app/api?username=maru44&show_icons=true&theme=dark&count_private=true)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maru44&layout=compact&hide=python,html,css)
 
 ## Main Works (Indie development)
-[Linkauto](https://linkauto.web.app) (active)<br />
+[Linkauto](https://linkauto.web.app) (Active)<br />
 Go, React, Vite, GCP, Firebase, Terraform
 
 [envassador.com (platform to manage local environmental variables)](https://envassador.com) (Inactive)<br/>
