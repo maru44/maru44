@@ -4,6 +4,7 @@ Web engineer (mainly server side)<br />
 Indie hacker<br/>
 Love go and react(TypeScript).
 
+Blog:
 https://maru44.web.app
 
 ## History
@@ -16,9 +17,6 @@ An indie hacker studied by myself (August 2019 - March 2021)
 ## Main Works (Indie)
 [Linkauto](https://linkauto.web.app) (Active)<br />
 Go, React, Vite, GCP, Firebase, Terraform
-
-[envassador.com (platform to manage local environmental variables)](https://envassador.com) (Inactive)<br/>
-Go, Next.js, TypeScript, MUI, SWR, AWS(ECS, ECR, RDS,,,), Terraform, Docker, ___Clean Architecture___<br/><br/>
 
 <!--
 ## Skills
